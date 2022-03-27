@@ -1,4 +1,4 @@
-﻿namespace Purse
+﻿namespace Money
 {
 
     class Program
