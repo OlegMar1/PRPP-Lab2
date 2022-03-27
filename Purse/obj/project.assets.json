@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "BusinessCard/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BusinessCard.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessCard.dll": {}
+        }
+      },
       "Money/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "BusinessCard/1.0.0": {
+      "type": "project",
+      "path": "../BusinessCard/BusinessCard.csproj",
+      "msbuildProject": "../BusinessCard/BusinessCard.csproj"
+    },
     "Money/1.0.0": {
       "type": "project",
       "path": "../Money/Money.csproj",
@@ -23,30 +38,24 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BusinessCard >= 1.0.0",
       "Money >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mixas\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Zoriana\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Purse\\Purse.csproj",
+      "projectUniqueName": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Purse\\Purse.csproj",
       "projectName": "Purse",
-      "projectPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Purse\\Purse.csproj",
-      "packagesPath": "C:\\Users\\mixas\\.nuget\\packages\\",
-      "outputPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Purse\\obj\\",
+      "projectPath": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Purse\\Purse.csproj",
+      "packagesPath": "C:\\Users\\Zoriana\\.nuget\\packages\\",
+      "outputPath": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Purse\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mixas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Zoriana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,8 +69,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj": {
-              "projectPath": "B:\\ПМ\\8 семестр\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj"
+            "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\BusinessCard\\BusinessCard.csproj": {
+              "projectPath": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\BusinessCard\\BusinessCard.csproj"
+            },
+            "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj": {
+              "projectPath": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj"
             }
           }
         }

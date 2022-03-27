@@ -1,0 +1,15 @@
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\bin\Debug\net6.0\BusinessCard.exe
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\bin\Debug\net6.0\BusinessCard.deps.json
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\bin\Debug\net6.0\BusinessCard.runtimeconfig.json
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\bin\Debug\net6.0\BusinessCard.dll
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\bin\Debug\net6.0\BusinessCard.pdb
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\obj\Debug\net6.0\BusinessCard.csproj.AssemblyReference.cache
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\obj\Debug\net6.0\BusinessCard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\obj\Debug\net6.0\BusinessCard.AssemblyInfoInputs.cache
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\obj\Debug\net6.0\BusinessCard.AssemblyInfo.cs
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\obj\Debug\net6.0\BusinessCard.csproj.CoreCompileInputs.cache
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\obj\Debug\net6.0\BusinessCard.dll
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\obj\Debug\net6.0\refint\BusinessCard.dll
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\obj\Debug\net6.0\BusinessCard.pdb
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\obj\Debug\net6.0\BusinessCard.genruntimeconfig.cache
+D:\Subjects\Forth\second\ПРПП\PRPP-Lab2\BusinessCard\obj\Debug\net6.0\ref\BusinessCard.dll
