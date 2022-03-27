@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj": {}
+    "C:\\Users\\User\\Desktop\\lab2prpp\\Money\\Money.csproj": {}
   },
   "projects": {
-    "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj": {
+    "C:\\Users\\User\\Desktop\\lab2prpp\\Money\\Money.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\lab2prpp\\Money\\Money.csproj",
         "projectName": "Money",
-        "projectPath": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj",
-        "packagesPath": "C:\\Users\\Zoriana\\.nuget\\packages\\",
-        "outputPath": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Money\\obj\\",
+        "projectPath": "C:\\Users\\User\\Desktop\\lab2prpp\\Money\\Money.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\lab2prpp\\Money\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Zoriana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BusinessCard\BusinessCard.csproj" />
+    <ProjectReference Include="..\CreditCard\CreditCard.csproj" />
     <ProjectReference Include="..\Money\Money.csproj" />
   </ItemGroup>
 

@@ -12,6 +12,16 @@
           "bin/placeholder/BusinessCard.dll": {}
         }
       },
+      "CreditCard/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CreditCard.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CreditCard.dll": {}
+        }
+      },
       "Money/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -30,6 +40,11 @@
       "path": "../BusinessCard/BusinessCard.csproj",
       "msbuildProject": "../BusinessCard/BusinessCard.csproj"
     },
+    "CreditCard/1.0.0": {
+      "type": "project",
+      "path": "../CreditCard/CreditCard.csproj",
+      "msbuildProject": "../CreditCard/CreditCard.csproj"
+    },
     "Money/1.0.0": {
       "type": "project",
       "path": "../Money/Money.csproj",
@@ -39,23 +54,29 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "BusinessCard >= 1.0.0",
+      "CreditCard >= 1.0.0",
       "Money >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zoriana\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Purse\\Purse.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\lab2prpp\\Purse\\Purse.csproj",
       "projectName": "Purse",
-      "projectPath": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Purse\\Purse.csproj",
-      "packagesPath": "C:\\Users\\Zoriana\\.nuget\\packages\\",
-      "outputPath": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Purse\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\lab2prpp\\Purse\\Purse.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\lab2prpp\\Purse\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Zoriana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,11 +90,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\BusinessCard\\BusinessCard.csproj": {
-              "projectPath": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\BusinessCard\\BusinessCard.csproj"
+            "C:\\Users\\User\\Desktop\\lab2prpp\\BusinessCard\\BusinessCard.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\lab2prpp\\BusinessCard\\BusinessCard.csproj"
             },
-            "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj": {
-              "projectPath": "D:\\Subjects\\Forth\\second\\ПРПП\\PRPP-Lab2\\Money\\Money.csproj"
+            "C:\\Users\\User\\Desktop\\lab2prpp\\CreditCard\\CreditCard.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\lab2prpp\\CreditCard\\CreditCard.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\lab2prpp\\Money\\Money.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\lab2prpp\\Money\\Money.csproj"
             }
           }
         }
